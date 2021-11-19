@@ -150,7 +150,7 @@ const btn2 = () => {
             s6.style.display='block';
             classRes.style.display="block";
         }
-        else if(b2==b5 && b1==b8){
+        else if(b2==b5 && b2==b8){
        
             res.innerHTML="Player 2 Win";
             s4.style.display='block';
